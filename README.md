@@ -37,4 +37,11 @@ This repository showcases a data analytics project featuring interactive dashboa
    ```cognos
    ([LoginAttempts] * 0.4) + ([TransactionAmount] / [AccountBalance] * 0.6)
 
+## Dashboards
+1. Fraud Detection Dashboard
+   - Visuals
+     - Bar Chart: Number of flagged transactions by location.
+     - Heat Map: Transaction volume and flagged transactions by region.
+     - KPI: Total flagged transactions.
+
 
