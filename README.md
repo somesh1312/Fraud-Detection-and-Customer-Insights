@@ -1,5 +1,3 @@
-# Fraud-Detection-and-Customer-Insights
-
 # Fraud Detection and Customer Insights Dashboards using IBM Cognos Analytics
 
 ## Overview
