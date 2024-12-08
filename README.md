@@ -56,5 +56,11 @@ This repository showcases a data analytics project featuring interactive dashboa
        - Table Details:
          - The table lists each region alongside the count of accounts grouped by risk categories (Low, Medium, High).
          - Provides an easy-to-understand breakdown of regional risks for operational decision-making.
+           
+## key Insights
+1. Fraud Detection: Urban regions recorded the highest flagged transactions, suggesting concentrated risk areas.
+2. Customer Behavior: Customers aged 26–35 contributed the highest transaction volumes, with online channels being the most popular.
+3. Security: High login attempts coincided with flagged transactions, highlighting potential security risks.
+
 
 
