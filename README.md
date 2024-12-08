@@ -62,5 +62,14 @@ This repository showcases a data analytics project featuring interactive dashboa
 2. Customer Behavior: Customers aged 26–35 contributed the highest transaction volumes, with online channels being the most popular.
 3. Security: High login attempts coincided with flagged transactions, highlighting potential security risks.
 
+## Skills Demonstrated
+
+- Data Cleaning and Transformation in IBM Cognos
+- Advanced Data Modeling and Derived Fields
+- Data Visualization and Business Intelligence Reporting
+- Fraud Detection and Risk Analysis
+
+
+
 
 
