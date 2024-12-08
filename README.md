@@ -44,4 +44,17 @@ This repository showcases a data analytics project featuring interactive dashboa
      - Heat Map: Transaction volume and flagged transactions by region.
      - KPI: Total flagged transactions.
 
+2. Customer Insights Dashboard
+   - Visuals
+     - Pie Chart: Distribution of transaction types by age group.
+     - Bar Chart: Average transaction amount by customer occupation.
+
+3. Performance Metrics Dashboard
+   - Visuals
+     - Line Chart: Trends in days since last transaction over time.
+     - Table: Risk score distribution across regions.
+       - Table Details:
+         - The table lists each region alongside the count of accounts grouped by risk categories (Low, Medium, High).
+         - Provides an easy-to-understand breakdown of regional risks for operational decision-making.
+
 
