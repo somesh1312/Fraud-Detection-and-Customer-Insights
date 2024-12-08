@@ -28,7 +28,7 @@ This repository showcases a data analytics project featuring interactive dashboa
    Calculates the time gap between consecutive transactions.
    ```cognos
    _days_between([TransactionDate], [PreviousTransactionDate])
-2. **Suspicious Transaction Flag:
+2. **Suspicious Transaction Flag**:
    Flags transactions exceeding twice the account's average transaction amount.
    ```cognos
    IF ([TransactionAmount] > (AVG([TransactionAmount]) * 2)) THEN 'Flagged' ELSE 'Normal'
